@@ -19,7 +19,7 @@
 
   1. Клонируйте проект с GitHub:
 
-git clone https://github.com/diploma_project.git
+git clone [https://github.com/diploma_project.git](https://github.com/irikuz/diploma_project.git)
 
   2. Создайте виртуальное окружение:  
 

@@ -24,7 +24,9 @@ git clone [https://github.com/diploma_project.git](https://github.com/irikuz/dip
   2. Создайте виртуальное окружение:  
 
 python -m venv venv
+
 source venv/bin/activate  # Для macOS/Linux
+
 venv\Scripts\activate  # Для Windows
 
   3. Установите зависимости:  
